@@ -1,0 +1,4 @@
+需要开Release模式跑程序
+需要文章特征向量"feature_article.txt"
+需要用户训练集"user-info-train.txt"和用户测试集"user-info-test.txt"
+输出结果"result.txt"
