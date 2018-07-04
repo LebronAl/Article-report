@@ -1,3 +1,3 @@
-¢ÙÔÚ¡°ÌáÈ¡¹Ø¼ü´Ê¡±³ÌÐòÖÐÅäÖÃÎÄµµÐÅÏ¢¼¯ºÏ"raw-data.txt"(Î´ÅäÖÃ)ºÍÍ£ÓÃ´ÊÁÐ±í"ignore-words.txt"(ÒÑÅäÖÃ)£¬È»ºóÌáÈ¡³öÃ¿ÆªÎÄÕÂµÄ12¸ö¹Ø¼ü´Ê£¬Êä³öµ½¡°feature_words.txt¡±ÀïÃæ
-¢Ú½«ÉÏÒ»¸ö³ÌÐòµÄÊä³ö½á¹û"feature_words.txt"(Î´ÅäÖÃ)¿½±´µ½¡°Éî¶ÈÑ§Ï°Éú³É´ÊÏòÁ¿¡±³ÌÐòÖÐ£¬ÔÙÅäÖÃ³õ¼¶ÓïÁÏ¿â"data.txt"(ÒÑÅäÖÃ)£¬¸Ã³ÌÐòÊä³öÃ¿ÆªÎÄÕÂµÄÌØÕ÷ÏòÁ¿"feature_article.txt¡±
-¢Û½«ÉÏÒ»¸ö³ÌÐòµÄÊä³ö½á¹û"feature_article.txt"(Î´ÅäÖÃ)¿½±´µ½¡°ÂÛÎÄÍÆ¼ö¡±³ÌÐòÖÐ£¬ÔÙÅäÖÃÓÃ»§ÑµÁ·¼¯"user-info-train.txt"(Î´ÅäÖÃ)ºÍÓÃ»§²âÊÔ¼¯"user-info-test.txt"(Î´ÅäÖÃ),¸Ã³ÌÐòÊä³ö½á¹û"result.txt"
+1.åœ¨â€œæå–å…³é”®è¯â€ç¨‹åºä¸­é…ç½®æ–‡æ¡£ä¿¡æ¯é›†åˆ"raw-data.txt"(æœªé…ç½®)å’Œåœç”¨è¯åˆ—è¡¨"ignore-words.txt"(å·²é…ç½®)ï¼Œç„¶åŽæå–å‡ºæ¯ç¯‡æ–‡ç« çš„12ä¸ªå…³é”®è¯ï¼Œè¾“å‡ºåˆ°â€œfeature_words.txtâ€é‡Œé¢
+2.å°†ä¸Šä¸€ä¸ªç¨‹åºçš„è¾“å‡ºç»“æžœ"feature_words.txt"(æœªé…ç½®)æ‹·è´åˆ°â€œæ·±åº¦å­¦ä¹ ç”Ÿæˆè¯å‘é‡â€ç¨‹åºä¸­ï¼Œå†é…ç½®åˆçº§è¯­æ–™åº“"data.txt"(å·²é…ç½®)ï¼Œè¯¥ç¨‹åºè¾“å‡ºæ¯ç¯‡æ–‡ç« çš„ç‰¹å¾å‘é‡"feature_article.txtâ€
+3.å°†ä¸Šä¸€ä¸ªç¨‹åºçš„è¾“å‡ºç»“æžœ"feature_article.txt"(æœªé…ç½®)æ‹·è´åˆ°â€œè®ºæ–‡æŽ¨èâ€ç¨‹åºä¸­ï¼Œå†é…ç½®ç”¨æˆ·è®­ç»ƒé›†"user-info-train.txt"(æœªé…ç½®)å’Œç”¨æˆ·æµ‹è¯•é›†"user-info-test.txt"(æœªé…ç½®),è¯¥ç¨‹åºè¾“å‡ºç»“æžœ"result.txt"
