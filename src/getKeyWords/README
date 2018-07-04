@@ -1,0 +1,5 @@
+需要开Release模式跑程序
+需要添加boost库，可通过VS2017工具栏中-NeGet搜索boost安装即可
+需要停用词列表"ignore-words.txt”
+需要文档信息集合"raw-data.txt"
+输出特征词文件"feature_words.txt"
