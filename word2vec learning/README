@@ -1,4 +1,0 @@
-需要本地python配置gensim库
-需要语料库“data.txt”
-需要特征词文件“feature_words.txt”
-输出文章特征向量“feature_article.txt”
